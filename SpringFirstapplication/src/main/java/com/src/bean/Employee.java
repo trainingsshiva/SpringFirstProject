@@ -46,7 +46,7 @@ public class Employee implements Serializable{
 		this.empsalary = empsalary;
 	}
 	public Employee() {
-		
+		System.out.println("this is default constructor");
 	}
 	
 	
